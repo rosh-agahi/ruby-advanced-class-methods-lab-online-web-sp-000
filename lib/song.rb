@@ -14,5 +14,5 @@ class Song
     song = Song.new 
     song.name = name
     @@all << song
-    
+  end
 end
